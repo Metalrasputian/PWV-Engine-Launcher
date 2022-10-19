@@ -1,0 +1,4 @@
+cefpython3
+clr-loader==0.1.7
+pythonnet==3.0.0a2
+pywebview
